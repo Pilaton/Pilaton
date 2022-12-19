@@ -15,4 +15,4 @@ And here's what I love the most:
 ![Other](https://img.shields.io/badge/...Other-323330?style=for-the-badge)
 
 ---
-All technologies that I know can be found on [my website](https://pilaton.github.io).
+All technologies that I know can be found on [my website](https://pilaton.com).
