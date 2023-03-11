@@ -1,7 +1,7 @@
 # Hey! Nice to see you 🤓
 
 Welcome to my page!  
-I'm Mark, Fullstack developer from ... (some kind of dictatorship).
+I'm Mark, Fullstack developer from ... (some dictatorial country).
 
 Development for me is not a job, it's a passion!
 
