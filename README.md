@@ -15,3 +15,5 @@ List of technologies that I use most often:
 
 ---
 All technologies that I know can be found on [my website](https://pilaton.com).
+
+P.s. I recently released a very useful VSCode extension for your npm dependencies called [npmLens](https://marketplace.visualstudio.com/items?itemName=Pilaton.vscode-npm-lens), be sure to check it out! 🍻
