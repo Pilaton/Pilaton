@@ -1,6 +1,7 @@
 # Hey! Nice to see you 🛸
 
 I'm Mark, full-stack developer from ... (some dictatorial country).  
+I am solving business problems. There is a tendency to optimize everything and everything)
 
 ## 🫧 Projects  
 
