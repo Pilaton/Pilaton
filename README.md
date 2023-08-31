@@ -7,7 +7,7 @@
 ## A little 🛸 about me
 
 I'm Mark, full-stack developer.   
-I run a business and solve business problems. There is a tendency to optimize everything and everything).
+I'm in business, bringing various ideas to life and solving business problems. I optimize everything and anything.
 
 ### Favorite languages  
 ![My Skills](https://skillicons.dev/icons?i=ts,js,go)  
