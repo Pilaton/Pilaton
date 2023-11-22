@@ -1,8 +1,9 @@
 # 🫧 Public projects  
 
-* **[npmLens](https://github.com/Pilaton/vscode-npm-lens-support)** (new): An extension for VSCode that makes it easier to work with the dependencies of your project.
+* **[npmLens](https://github.com/Pilaton/vscode-npm-lens-support)**: An extension for VSCode that makes it easier to work with the dependencies of your project.
 * **[OhMyZsh-full-autoupdate](https://github.com/Pilaton/OhMyZsh-full-autoupdate)**: Plugin for Oh-My-Zsh that fixes the problem of incomplete updates of other plugins and themes.
 * **[MacSync](https://github.com/Pilaton/MacSync)**: Synchronize files between MacOS devices via your personal cloud, NAS, GitHub and so on.
+* **[sleep-sleep](https://github.com/Pilaton/sleep-sleep)**: A tiny and simple JavaScript code execution delay library.
 
 ## A little 🛸 about me
 
