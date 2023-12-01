@@ -4,6 +4,7 @@
 * **[OhMyZsh-full-autoupdate](https://github.com/Pilaton/OhMyZsh-full-autoupdate)**: Plugin for Oh-My-Zsh that fixes the problem of incomplete updates of other plugins and themes.
 * **[MacSync](https://github.com/Pilaton/MacSync)**: Synchronize files between MacOS devices via your personal cloud, NAS, GitHub and so on.
 * **[sleep-sleep](https://github.com/Pilaton/sleep-sleep)**: A tiny and simple JavaScript code execution delay library.
+* **[PMJS](https://github.com/Pilaton/pmjs)**: Asynchronous library with built-in caching to identify available package managers.
 
 ## A little 🛸 about me
 
