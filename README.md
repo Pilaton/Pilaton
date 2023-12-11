@@ -12,7 +12,7 @@
 ![Static Badge](https://img.shields.io/badge/NPM%20packages-%23c53635?style=for-the-badge&logo=npm&logoColor=white)
 
 - **[sleep-sleep](https://github.com/Pilaton/sleep-sleep)**: A tiny and simple JavaScript code execution delay library.
-- **[PMJS](https://github.com/Pilaton/pmjs)**: Asynchronous library with built-in caching to identify available package managers.
+- **[Pubun](https://github.com/Pilaton/pubun)**: Asynchronous library with built-in caching to identify available package managers.
 - **[eslint-eco](https://github.com/Pilaton/eslint-eco)**: Monorepository with all necessary ESLint configurations.
 
 ## A little 🛸 about me
