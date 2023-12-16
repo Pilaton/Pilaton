@@ -19,15 +19,3 @@
 
 I'm Mark, full-stack developer.
 I'm in business, bringing various ideas to life and solving business problems. I optimize everything and anything.
-
-### Favorite languages
-
-![My Skills](https://skillicons.dev/icons?i=ts,js,go)
-
-### Favorite technologies
-
-![My Skills](https://skillicons.dev/icons?i=react,vuejs,deno,nodejs,vite,tailwind)
-
----
-
-All technologies that I know can be found on [my website](https://pilaton.com).
