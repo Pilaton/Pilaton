@@ -1,15 +1,15 @@
 ## 🫧 Public projects
 
-![Static Badge](https://img.shields.io/badge/VSCode_extensions-%23007acc?style=for-the-badge&logo=visualstudiocode)
+### 🔝 VSCode_extensions
 
 - **[npmLens](https://github.com/Pilaton/vscode-npm-lens-support)**: An extension for VSCode that makes it easier to work with the dependencies of your project.
 
-![Static Badge](https://img.shields.io/badge/Shell%20scripts%20and%20plugins-%23282e35?style=for-the-badge&logo=gnubash&logoColor=%234aa324)
+### 🔝 Shell scripts and plugins
 
 - **[OhMyZsh-full-autoupdate](https://github.com/Pilaton/OhMyZsh-full-autoupdate)**: Plugin for Oh-My-Zsh that fixes the problem of incomplete updates of other plugins and themes.
 - **[MacSync](https://github.com/Pilaton/MacSync)**: Synchronize files between MacOS devices via your personal cloud, NAS, GitHub and so on.
 
-![Static Badge](https://img.shields.io/badge/NPM%20packages-%23c53635?style=for-the-badge&logo=npm&logoColor=white)
+### 🔝 NPM packages
 
 - **[sleep-sleep](https://github.com/Pilaton/sleep-sleep)**: A tiny and simple JavaScript code execution delay library.
 - **[Pubun](https://github.com/Pilaton/pubun)**: Asynchronous library with built-in caching to identify available package managers.
