@@ -14,8 +14,3 @@
 - **[sleep-sleep](https://github.com/Pilaton/sleep-sleep)**: A tiny and simple JavaScript code execution delay library.
 - **[Pubun](https://github.com/Pilaton/pubun)**: Asynchronous library with built-in caching to identify available package managers.
 - **[eslint-eco](https://github.com/Pilaton/eslint-eco)**: Monorepository with all necessary ESLint configurations.
-
-## A little 🛸 about me
-
-I'm Mark, full-stack developer.
-I'm in business, bringing various ideas to life and solving business problems. I optimize everything and anything.
