@@ -1,4 +1,4 @@
-## 🍱 Public projects
+## 🍱 Projects that are now available to everyone
 
 ### 🍔 VSCode extensions
 
