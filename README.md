@@ -14,3 +14,4 @@
 - **[sleep-sleep](https://github.com/Pilaton/sleep-sleep)**: A tiny and simple JavaScript code execution delay library.
 - **[Pubun](https://github.com/Pilaton/pubun)**: Asynchronous library with built-in caching to identify available package managers.
 - **[eslint-eco](https://github.com/Pilaton/eslint-eco)**: Monorepository with all necessary ESLint configurations.
+- **[remark-translit-slug](https://github.com/Pilaton/remark-translit-slug)**: A remark plugin that transliterates headers into slug-IDs.
