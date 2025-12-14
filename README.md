@@ -2,7 +2,7 @@
 
 ### 🍔 VSCode extensions
 
-- **[npmLens](https://github.com/Pilaton/vscode-npm-lens-support)**: An extension for VSCode that makes it easier to work with the dependencies of your project.
+- **[npmLens](https://github.com/Pilaton/vscode-npm-lens)**: Visual VSCode extension for managing npm dependencies.
 
 ### 🦴 Shell scripts and plugins
 
