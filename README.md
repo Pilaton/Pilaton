@@ -44,7 +44,7 @@ I specialize in building web applications and services end-to-end. My strengths 
 ### 🦴 CLI tools / Shell scripts 
 
 - **[MacSync](https://github.com/Pilaton/MacSync)**: CLI tool to sync dotfiles, configurations, and folders across multiple Macs using your favorite cloud storage (Dropbox, iCloud, etc.).
-- **[OhMyZsh-full-autoupdate](https://github.com/Pilaton/OhMyZsh-full-autoupdate)**: Automatic update plugin for Oh-My-Zsh custom plugins and themes. Zero-config maintenance for your shell.
+- **[OhMyZsh-full-autoupdate](https://github.com/Pilaton/OhMyZsh-full-autoupdate)**: Automatic update plugin for Oh-My-Zsh custom plugins and themes. Zero-config.
 
 ### 🥩 NPM packages
 
