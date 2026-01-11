@@ -41,10 +41,10 @@ I specialize in building web applications and services end-to-end. My strengths 
 
 - **[npmLens](https://github.com/Pilaton/vscode-npm-lens)**: Visual Studio Code extension for advanced npm dependency management and version control. Helps thousands of devs ship faster.
 
-### 🦴 Shell scripts and plugins
+### 🦴 CLI tools / Shell scripts 
 
+- **[MacSync](https://github.com/Pilaton/MacSync)**: CLI tool to sync dotfiles, configurations, and folders across multiple Macs using your favorite cloud storage (Dropbox, iCloud, etc.).
 - **[OhMyZsh-full-autoupdate](https://github.com/Pilaton/OhMyZsh-full-autoupdate)**: Automatic update plugin for Oh-My-Zsh custom plugins and themes. Zero-config maintenance for your shell.
-- **[MacSync](https://github.com/Pilaton/MacSync)**: Synchronize files between MacOS devices via your personal cloud, NAS, GitHub, and more.
 
 ### 🥩 NPM packages
 
