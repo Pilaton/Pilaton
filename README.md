@@ -3,7 +3,7 @@
 I'm a **Product-focused Software Engineer** with **15+ years of experience**.  
 I specialize in building web applications and services end-to-end. My strengths lie in product strategy and delivering technical solutions that drive **business value**. I often act as a **Technical Partner**, taking full ownership of the product lifecycle — from architecture and **DevOps** to **AI integration**.
 
-## 🛠 Favorite Tech
+## ❤️‍🩹 Favorite Tech
 
 <table>
   <tr>
@@ -35,18 +35,18 @@ I specialize in building web applications and services end-to-end. My strengths 
   </tr>
 </table>
 
-## 🔮 My Projects
+## Projects
 
-### 🍔 VSCode extensions
+### 🧑‍💻 VSCode extensions
 
 - **[npmLens](https://github.com/Pilaton/vscode-npm-lens)**: Visual Studio Code extension for advanced npm dependency management and version control. Helps thousands of devs ship faster.
 
-### 🦴 CLI tools / Shell scripts 
+### ⌘ CLI tools / Shell scripts 
 
 - **[MacSync](https://github.com/Pilaton/MacSync)**: CLI tool to sync dotfiles, configurations, and folders across multiple Macs using your favorite cloud storage (Dropbox, iCloud, etc.).
 - **[OhMyZsh-full-autoupdate](https://github.com/Pilaton/OhMyZsh-full-autoupdate)**: Automatic update plugin for Oh-My-Zsh custom plugins and themes. Zero-config.
 
-### 🥩 NPM packages
+### 📦 NPM packages
 
 - **[sleep-sleep](https://github.com/Pilaton/sleep-sleep)**: A tiny and simple JavaScript code execution delay library.
 - **[Pubun](https://github.com/Pilaton/pubun)**: Asynchronous library with built-in caching to identify available package managers.
