@@ -41,17 +41,17 @@ I specialize in building web applications and services end-to-end. My strengths 
 
 - **[npmLens](https://github.com/Pilaton/vscode-npm-lens)**: Visual Studio Code extension for advanced npm dependency management and version control. Helps thousands of devs ship faster.
 
-### ⌘ CLI tools / Shell scripts 
-
-- **[MacSync](https://github.com/Pilaton/MacSync)**: CLI tool to sync dotfiles, configurations, and folders across multiple Macs using your favorite cloud storage (Dropbox, iCloud, etc.).
-- **[OhMyZsh-full-autoupdate](https://github.com/Pilaton/OhMyZsh-full-autoupdate)**: Automatic update plugin for Oh-My-Zsh custom plugins and themes. Zero-config.
-
 ### 📦 NPM packages
 
 - **[sleep-sleep](https://github.com/Pilaton/sleep-sleep)**: A tiny and simple JavaScript code execution delay library.
 - **[Pubun](https://github.com/Pilaton/pubun)**: Asynchronous library with built-in caching to identify available package managers.
 - **[eslint-eco](https://github.com/Pilaton/eslint-eco)**: Monorepository with all necessary ESLint configurations.
 - **[remark-translit-slug](https://github.com/Pilaton/remark-translit-slug)**: A remark plugin that transliterates headers into slug-IDs.
+
+### ⌘ CLI tools / Shell scripts 
+
+- **[MacSync](https://github.com/Pilaton/MacSync)**: CLI tool to sync dotfiles, configurations, and folders across multiple Macs using your favorite cloud storage (Dropbox, iCloud, etc.).
+- **[OhMyZsh-full-autoupdate](https://github.com/Pilaton/OhMyZsh-full-autoupdate)**: Automatic update plugin for Oh-My-Zsh custom plugins and themes. Zero-config.
 
 <br/>
 
