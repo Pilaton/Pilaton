@@ -1,9 +1,9 @@
-# Hi, I'm Mark <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+# Hi, I'm Mark <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" alt="Maracas" width="35" height="35" />
 
 I'm a **Product-focused Software Engineer** with **15+ years of experience**.  
 I specialize in building web applications and services end-to-end. My strengths lie in product strategy and delivering technical solutions that drive **business value**. I often act as a **Technical Partner**, taking full ownership of the product lifecycle — from architecture and **DevOps** to **AI integration**.
 
-## ❤️‍🩹 Favorite Tech
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Mending%20Heart.png" alt="Mending Heart" width="20" height="20" /> Favorite Tech
 
 <table>
   <tr>
