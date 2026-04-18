@@ -59,6 +59,4 @@ I specialize in building web applications and services end-to-end. My strengths 
 
 ---
 
-*Let's build something amazing together.*
-
 [pilaton.com](https://pilaton.com) • [dev@pilaton.com](mailto:dev@pilaton.com)
